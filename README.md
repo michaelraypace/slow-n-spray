@@ -8,4 +8,4 @@ Slow and Spray requires the following
 * selenium
 * WebDriver (I use gecko; installation instructions [here](https://selenium-python.readthedocs.io/installation.html "Selenium readthedocs.io"))
 
-Usage: python threadedLogin.py -f <users.lst> -t <threadCount> -u <url> -p <password>
+Usage: python threadedLogin.py -f \<users.lst\> -t \<threadCount\> -u \<url\> -p \<password\>
